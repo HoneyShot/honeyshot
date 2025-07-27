@@ -14,29 +14,6 @@
 
 ## 🔧 Professional Profile
 
-
-#include <professional_profile.h>
-
-struct Engineer {
-    char* name = "HoneyShot";
-    char* specialization = "Electrical Electronics Engineering";
-    char* expertise[4] = {
-        "Industrial Automation Systems", 
-        "PLC Programming & HMI Design",
-        "Energy Management Solutions",
-        "Electronic Device Maintenance"
-    };
-    char* tools[6] = {
-        "Delta PLC (WPLSoft, DOPSoft)", 
-        "TIA Portal", 
-        "Siemens S7 1200", 
-        "Autodesk AutoCAD", 
-        "Proteus/Multisim", 
-        "KNX Systems"
-    };
-};
-
-
 ## 🎚️ Automation Stack Proficiency
 
 | PLC Systems      | HMI Interfaces     | Microcontrollers | CAD/Simulation       |
