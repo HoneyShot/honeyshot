@@ -4,12 +4,12 @@
 <h3 align="center">Electrical Electronics Engineer</h3>
 
 <p align="center">
-  <a href="#">
+<!--   <a href="#">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
+  </a> -->
 </p>
 
 ## 🔧 Professional Profile
