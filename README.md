@@ -1,16 +1,6 @@
 <h1 align="center">⚡ HoneyShot</h1>
 <h3 align="center">Electrical Electronics Engineer</h3>
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Contact-Private-3423A6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Status-Open_for_Collabs-25D366?style=for-the-badge" alt="Availability">
-  </a>
-</p>
-
-
 ## 🔧 Professional Profile
 
 
@@ -55,6 +45,7 @@
 
 **Web Development Journey:**  
 
+```mermaid
 graph LR
     A[HTML/CSS] --> B[JavaScript]
     B --> C[Basic Projects]
@@ -63,6 +54,7 @@ graph LR
     D[Node.js] --> G[Model-View-Controller]
     F --> G[Model-View-Controller]
     E --> G[Model-View-Controller]
+```
 
 
 
